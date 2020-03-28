@@ -1,5 +1,9 @@
 # Changelog
 
+## Update list to comply with new iRacing naming scheme 2020S2P2 (28/03/2020)
+
+---
+
 ## 20200306 (07/03/2020)
 - [Added Porsche GT4](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/6dab0c2b499faf38b591b161c695ffaf7ac5aedc) - @redion1992
 
