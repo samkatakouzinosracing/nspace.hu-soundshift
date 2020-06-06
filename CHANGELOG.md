@@ -1,5 +1,12 @@
 # Changelog
 
+## iRacing 2020 Season 3 (06/06/2020)
+
+New Vehicles
+- BMW M4 GT4 
+- Indy Pro 2000 PM-18 
+- US F2000
+
 ## Update list to comply with new iRacing naming scheme 2020S2P2 (28/03/2020)
 
 ---
