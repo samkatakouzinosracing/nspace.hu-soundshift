@@ -1,5 +1,13 @@
 # Changelog
 
+## 2020-07-08 (08/07/2020)
+
+#### Vehicles
+
+- Edit NASCAR Chevrolet Silverado 2015 & 2019 [#22](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/22)
+
+---
+
 ## 2020-06-09 (09/06/2020)
 
 #### Vehicles
