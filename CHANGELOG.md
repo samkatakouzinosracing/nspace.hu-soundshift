@@ -1,5 +1,13 @@
 # Changelog
 
+## 2010-08-01 (01/08/2020)
+
+#### Vehicles
+
+- Edit USF 2000 is 6 speeds [#24](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/24)
+
+---
+
 ## 2020-07-08 (08/07/2020)
 
 #### Vehicles
@@ -48,9 +56,9 @@
 
 #### Vehicles
 
+- Add Supercars 2019 [#8](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/8)
 - Add Audi RS 3 LMS [#7](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/7)
 - Add Pro Trucks [#6](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/6)
 - Add Formula Renault 3.5 [#2](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/2)
 - Add Dallara F3 [#3](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/3)
-- Add Supercars 2019 [#8](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/8)
 - Add BMW M8 GTE [#1](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/1)
