@@ -1,5 +1,14 @@
 # Changelog
 
+## 2020-09-17 (17/09/2020)
+
+#### Vehicles
+
+- Add c8rvettegte [#27](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/27)
+- Add dallarap217 [#28](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/28)
+
+---
+
 ## 2010-08-01 (01/08/2020)
 
 #### Vehicles
