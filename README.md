@@ -2,7 +2,7 @@
 
 ## About Sound Shift
 
-Sound Shift for iRacing is software that provides audio cues for gear selection, brake force and rev limit.
+Sound Shift for iRacing is software that provides audio cues for gear selection, brake force and rev limit.  
 All can be adjusted and even muted if you don't want all cues. 
 
 ## About this service
