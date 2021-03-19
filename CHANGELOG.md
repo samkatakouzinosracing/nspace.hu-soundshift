@@ -1,6 +1,14 @@
 # Changelog
 
-## 20201221 (21/12/2020)
+## 2021-03-18 (19/03/2021)
+
+#### Vehicles
+
+- Add McLaren 570s GT4 [#40](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/40)
+
+---
+
+## 2020-12-21 (21/12/2020)
 
 #### Vehicles
 
