@@ -14,7 +14,7 @@ Especially useful for new cars entering the service.
 
 If you want to try this solution;  
 - Download and install the software at http://nspace.hu/soundshift/ as well as the 'Microsoft Visual C++ 2010 Redistributable Package' that it links to.  
-- Watch the forum thread for Sound Shift at https://members.iracing.com/jforum/posts/list/3213476.page to follow updates.  
+- Watch the forum thread for Sound Shift at https://forums.iracing.com/discussion/1190/sound-shift-app to follow updates.  
 - Obtain the most recent vehicle.ini file at https://github.com/samkatakouzinosracing/nspace.hu-soundshift to get updates.  
 
 ## Download updates
