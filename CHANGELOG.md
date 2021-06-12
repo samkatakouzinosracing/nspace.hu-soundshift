@@ -1,5 +1,15 @@
 # Changelog
 
+## 2021-06-12 (12/06/2021)
+
+#### Vehicles
+
+- Update SCCA Spec Racer Ford [#52](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/52)
+- Add Porsche 911 GT3 R [#51](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/51)
+- Add Formula Vee [#50](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/50)
+
+---
+
 ## 2021-03-18 (19/03/2021)
 
 #### Vehicles
