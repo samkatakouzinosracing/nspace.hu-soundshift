@@ -24,7 +24,7 @@ https://github.com/samkatakouzinosracing/nspace.hu-soundshift/blob/master/vehicl
 - Visit the link above, click on the 'Raw' button, views file in raw format. 
 - Save the raw page as vehicles.ini on your computer. 
 - Exit the Sound Shift app. 
-- Overwrite your installed version with the downloaded version.
+- Overwrite your vehicles.ini installed version with the downloaded version.
 - Start the Sound Shift app. 
 Enjoy the changes.
 
