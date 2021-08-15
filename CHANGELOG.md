@@ -1,5 +1,13 @@
 # Changelog
 
+## 2021-08-16 (16/08/2021)
+
+#### Vehicles
+
+- Add VW Beetle Lite [#53](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/53)
+
+---
+
 ## 2021-06-12 (12/06/2021)
 
 #### Vehicles
