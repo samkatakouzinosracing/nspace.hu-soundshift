@@ -1,5 +1,14 @@
 # Changelog
 
+## 2021-09-12 (12/09/2021)
+
+#### Vehicles
+
+- Add Porsche 992 GT3 Cup [#56](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/56)
+- Add Ferrari 488 GT3 Evo 2020 [#55](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/55)
+
+---
+
 ## 2021-08-16 (16/08/2021)
 
 #### Vehicles
