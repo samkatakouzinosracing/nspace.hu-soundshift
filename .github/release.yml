@@ -3,16 +3,16 @@
 changelog:
   exclude:
     labels:
-      - "bug"
-      - "duplicate"
-      - "good first issue"
-      - "help wanted"
-      - "internal"
-      - "invalid"
-      - "question"
-      - "wontfix"
+      - bug
+      - duplicate
+      - good first issue
+      - help wanted
+      - internal
+      - invalid
+      - question
+      - wontfix
     authors:
-      - "octocat"
+      - octocat
   categories:
     - title: Breaking Changes 🛠
       labels:
@@ -24,10 +24,10 @@ changelog:
         - enhancement
     - title: Vehicles
       labels:
-        - "vehicle"
+        - vehicle
     - title: Updates
       labels:
-        - "maintain"
+        - maintain
     - title: Other Changes
       labels:
         - "*"
