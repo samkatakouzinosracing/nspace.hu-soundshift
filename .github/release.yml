@@ -3,9 +3,16 @@
 changelog:
   exclude:
     labels:
-      - ignore-for-release
+      - "bug"
+      - "duplicate"
+      - "good first issue"
+      - "help wanted"
+      - "internal"
+      - "invalid"
+      - "question"
+      - "wontfix"
     authors:
-      - octocat
+      - "octocat"
   categories:
     - title: Breaking Changes 🛠
       labels:
@@ -15,6 +22,12 @@ changelog:
       labels:
         - Semver-Minor
         - enhancement
+    - title: Vehicles
+      labels:
+        - "vehicle"
+    - title: Updates
+      labels:
+        - "maintain"
     - title: Other Changes
       labels:
         - "*"
