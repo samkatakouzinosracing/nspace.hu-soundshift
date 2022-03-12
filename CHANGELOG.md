@@ -1,5 +1,24 @@
 # Changelog
 
+## 2022-03-12 (12/03/2022)
+<!-- Release notes generated using configuration in .github/release.yml at master -->
+
+## What's Changed
+### Vehicles
+* Add Mercedes-AMG W12 E Performance by @tomvachon in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/57
+* Add Aston Martin Vantage GT4 by @Fuzzwah in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/73
+* Add iRacing Formula iR-04 by @Fuzzwah in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/70
+* Add Stock Car Pro Series Chevrolet Cruze by @Fuzzwah in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/72
+* Add Stock Car Pro Series Toyota Corolla by @Fuzzwah in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/71
+* Add NASCAR Buick LeSabre - 1987 by @samkatakouzinosracing in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/74
+* Add Hyundai Veloster N TC by @samkatakouzinosracing in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/75
+* Add Hyundai Elantra N TC by @samkatakouzinosracing in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/76
+* Add Honda Civic Type R by @samkatakouzinosracing in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/77
+### Updates
+* Edit Lamborghini Huracán GT3 EVO shift point to 8000 rpm by @samkatakouzinos in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/69
+
+---
+
 ## 2021-09-12 (12/09/2021)
 
 #### Vehicles
@@ -96,18 +115,17 @@
 
 ## 2020-02-06 (06/02/2020)
 
-#### Vehicles
+## Vehicles
 
 - Edit NASCAR Cup branding update [#10](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/10)
 
-#### Maintenance
+## Maintenance
 
 - Sort list to match iRacing's current state (2020S1) [#9](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/9)
 
 ---
 
 ## 2019-12-31 (31/12/2019)
-
 #### Vehicles
 
 - Add c8rvettegte [#27](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/27)
