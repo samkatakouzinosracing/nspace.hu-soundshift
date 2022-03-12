@@ -1,8 +1,8 @@
 # .github/release.yml
 
-changelog:
-  exclude:
-    labels:
+changelog: 
+  exclude: 
+    labels: 
       - bug
       - duplicate
       - good first issue
@@ -11,15 +11,15 @@ changelog:
       - invalid
       - question
       - wontfix
-    authors:
+    authors: 
       - octocat
-  categories:
+  categories: 
     - title: Vehicles
-      labels:
+      labels: 
         - vehicle
     - title: Updates
-      labels:
+      labels: 
         - maintain
     - title: Other Changes
-      labels:
+      labels: 
         - "*"
