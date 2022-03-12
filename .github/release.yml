@@ -1,18 +1,6 @@
 # .github/release.yml
 
 changelog: 
-  exclude: 
-    labels: 
-      - bug
-      - duplicate
-      - good first issue
-      - help wanted
-      - internal
-      - invalid
-      - question
-      - wontfix
-    authors: 
-      - octocat
   categories: 
     - title: Vehicles
       labels: 
