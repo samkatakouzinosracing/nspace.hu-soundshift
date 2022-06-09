@@ -1,5 +1,18 @@
 # Changelog
 
+## 2022-06-08 (09/06/2022)
+<!-- Release notes generated using configuration in .github/release.yml at master -->
+
+## What's Changed
+### Vehicles
+* Add Radical SR10 by @Fuzzwah in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/78
+* Add Mercedes AMG GT3 2020 by @Fuzzwah in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/82
+* Add Mercedes AMG GT4 by @Fuzzwah in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/83
+
+
+**Full Changelog**: https://github.com/samkatakouzinosracing/nspace.hu-soundshift/compare/2022-03-12...2022-06-08
+---
+
 ## 2022-03-12 (12/03/2022)
 <!-- Release notes generated using configuration in .github/release.yml at master -->
 
@@ -17,6 +30,10 @@
 ### Updates
 * Edit Lamborghini Huracán GT3 EVO shift point to 8000 rpm by @samkatakouzinos in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/69
 
+## New Contributors
+* @tomvachon made their first contribution in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/57
+
+**Full Changelog**: https://github.com/samkatakouzinosracing/nspace.hu-soundshift/compare/2021-09-12...2022-03-12
 ---
 
 ## 2021-09-12 (12/09/2021)
