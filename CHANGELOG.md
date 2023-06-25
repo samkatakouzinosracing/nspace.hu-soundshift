@@ -1,5 +1,84 @@
 # Changelog
 
+## 2023-06-26 (26/06/2023)
+<!-- Release notes generated using configuration in .github/release.yml at master -->
+
+## What's Changed
+### Vehicles
+* Add Cadillac V-Series.R GTP, Ligier JS P320 by @jbruflodt in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/103
+* Add Porsche 911 GT3 R (992), Archive Porsche 911 GT3 Cup (991) by @m-jepson in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/104
+
+
+**Full Changelog**: https://github.com/samkatakouzinosracing/nspace.hu-soundshift/compare/2023-03-12...2023-06-26
+---
+
+## 2023-03-12 (12/03/2023)
+<!-- Release notes generated using configuration in .github/release.yml at master -->
+
+## What's Changed
+### Vehicles
+* Add 2023S02 vehicles by @jbruflodt in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/99
+  * Late Model Stock 
+  * Ray Formula 1600 
+  * Renault Clio 
+
+
+## New Contributors
+* @jbruflodt made their first contribution in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/99
+
+**Full Changelog**: https://github.com/samkatakouzinosracing/nspace.hu-soundshift/compare/2022-12-12...2023-03-12
+---
+
+## 2022-12-12 (12/12/2022)
+<!-- Release notes generated using configuration in .github/release.yml at master -->
+
+## What's Changed
+### Vehicles
+* Add Mercedes AMG W13 E Performance by @Fuzzwah in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/98
+
+
+**Full Changelog**: https://github.com/samkatakouzinosracing/nspace.hu-soundshift/compare/2022-12-09...2022-12-12
+---
+
+## 2022-12-09 (09/12/2022)
+<!-- Release notes generated using configuration in .github/release.yml at master -->
+
+## What's Changed
+### Vehicles
+* Add Toyota GR86 by @Fuzzwah in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/94
+* Add BMW M Hybrid V8 by @Fuzzwah in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/96
+
+
+**Full Changelog**: https://github.com/samkatakouzinosracing/nspace.hu-soundshift/compare/2022-07-25...2022-12-09
+---
+
+## 2022-07-25 (25/07/2022)
+<!-- Release notes generated using configuration in .github/release.yml at master -->
+
+## What's Changed
+### Vehicles
+* Edit Global Mazda MX-5 Cup shift point to 7200 rpm by @m-jepson in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/92
+
+## New Contributors
+* @m-jepson made their first contribution in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/92
+
+**Full Changelog**: https://github.com/samkatakouzinosracing/nspace.hu-soundshift/compare/2022-06-11.1...2022-07-25
+---
+
+## 2022-06-11.1 (11/06/2022)
+<!-- Release notes generated using configuration in .github/release.yml at master -->
+
+## What's Changed
+### Vehicles
+* Add NASCAR Cup Next Gen Chevrolet Camaro ZL1 by @samkatakouzinosracing in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/87
+* Add NASCAR Cup Next Gen Ford Mustang by @samkatakouzinosracing in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/88
+* Add NASCAR Cup Next Gen Toyota Camry by @samkatakouzinosracing in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/89
+* Add NASCAR Cup Next Gen Toyota Camry by @samkatakouzinosracing in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/90
+
+
+**Full Changelog**: https://github.com/samkatakouzinosracing/nspace.hu-soundshift/compare/2022-06-08...2022-06-11.1
+---
+
 ## 2022-06-08 (09/06/2022)
 <!-- Release notes generated using configuration in .github/release.yml at master -->
 
