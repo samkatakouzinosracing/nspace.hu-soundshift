@@ -1,5 +1,19 @@
 # Changelog
 
+## 2023-09-25 (25/09/2023)
+<!-- Release notes generated using configuration in .github/release.yml at master -->
+
+## What's Changed
+### Vehicles
+* Add Acura ARX-06 GTP by @samkatakouzinosracing in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/115
+* Add Porsche 963 GTP by @samkatakouzinosracing in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/116
+* Add Ferrari 296 GT3, Add Super Formula SF23 by @jbruflodt in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/114
+* Add NASCAR Classic Pontiac Grand Prix - 1987 by @samkatakouzinosracing in https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/117
+
+
+**Full Changelog**: https://github.com/samkatakouzinosracing/nspace.hu-soundshift/compare/2023-06-26...2023-09-25
+---
+
 ## 2023-06-26 (26/06/2023)
 <!-- Release notes generated using configuration in .github/release.yml at master -->
 
